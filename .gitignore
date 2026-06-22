@@ -1,0 +1,32 @@
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependencies
+vendor/
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# Cache
+*.cache
+.cache/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Compiled files
+*.pyc
+*.class
